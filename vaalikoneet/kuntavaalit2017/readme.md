@@ -2,7 +2,14 @@
 
 Tämä hakemisto sisältää HS:n ja IS:n vuoden 2017 kuntavaalien vaalikoneen tiedot avoimena datana.
 
-Ohjeita:
+## Ohjeita
 - HS set = 1 tarkoittaa, että kysymys on HS:n vaalikoneessa
 - Vastausvaihtoehto 1 = täysin eri mieltä, 5 = täysin samaa mieltä
+
+## Datan uudelleenkäyttöä
+- Teitkö datalla jotain? Tee pull request.
+
+## Lisenssi
+
+CC BY 4.0
 
